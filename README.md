@@ -1,17 +1,8 @@
-# LiThermal 热成像相机
-![封面](https://github.com/user-attachments/assets/4fc6f390-e887-44be-a5c8-28915dc0e16e)
-## 相关链接
-**[Bilibili 演示视频](https://oshwhub.com/lxu0423/lithermal-thermal-imaging-camera)**  
-**[硬件设计](https://oshwhub.com/lxu0423/lithermal-thermal-imaging-camera)**   
-**[教程中用到的相关工具](https://github.com/diylxy/LiThermal_Tools)**  
-**[自行编译固件](https://github.com/diylxy/LiThermal_Compiler)**  
 
 ## 复刻前你必须要了解的
 复刻本作品需要你能够焊接0402元件和0.3毫米间距的QFP引脚，需要有一定Linux系统使用经验和计算机网络基础。**会使用搜索引擎解决常见问题**。  
 ### **复刻难度很大，如果你不符合上述情况，请勿轻易尝试。**  
-本作品为**开源项目**，原理图、PCB和部分复刻教程位于**立创开源平台**。  
 本作品用到的热成像模组：**海康威视TB4117**，如果是UVC模式还需要一个88179芯片的网卡来改，或者让卖家帮改NCM模式。  
-视频发布时海康TB4117参考价格：290元。  
 
 ## 复刻前你需要准备
 耗材：  
